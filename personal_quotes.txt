@@ -3,5 +3,5 @@ lets do this already - Blake
 <<<<<<< HEAD
 live long and prosper
 =======
-I like yellow
+I like green
 >>>>>>> personal_quotes
