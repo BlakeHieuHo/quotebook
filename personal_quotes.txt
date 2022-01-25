@@ -1,3 +1,7 @@
 lets do this already - Blake
 
+<<<<<<< HEAD
 live long and prosper
+=======
+I like blue 
+>>>>>>> personal_quotes
